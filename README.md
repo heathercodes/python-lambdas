@@ -1,2 +1,4 @@
-# python-lambdas
-a collection of AWS lambda functions
+# serverless functions
+
+- Python AWS lambda function
+- Golang AWS lambda function
